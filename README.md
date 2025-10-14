@@ -72,7 +72,7 @@ The application should automatically open in your default web browser. If it doe
 ![Login](assets/Login.png)
 
 ### Sign Up
-![Sign uo](assets/SignUp.png)
+![Sign Up](assets/SignUp.png)
 
 ## App Page
 ![SBU STUDY SPOT](assets/AppPage.png)
