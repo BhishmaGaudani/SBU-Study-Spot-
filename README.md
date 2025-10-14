@@ -74,7 +74,7 @@ The application should automatically open in your default web browser. If it doe
 
 ## Study Locations
 
-The app currently tracks the following locations:
+The app currently tracks the 4 locations of Stony Brook University where usually most of the student studies:
 - Melville Library
 - Student Union
 - Wang Center
