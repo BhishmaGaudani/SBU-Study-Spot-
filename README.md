@@ -63,18 +63,19 @@ streamlit run main.py
 
 The application should automatically open in your default web browser. If it doesn't, navigate to the URL shown in the terminal (usually `http://localhost:8501`).
 
-## Preview
 
-![SBU Study Spot — Hero](assets/hero.png)
 
-### Live Map View
-![Map showing study spots](assets/map_view.png)
+### Home
+![Map showing study spots](assets/Home.png)
 
-### Crowd Status Sidebar
-![Sidebar statuses](assets/sidebar_status.png)
+### Login
+![Sidebar statuses](assets/Login.png)
 
-### Report Prompt (100m geofence)
-![Report prompt](assets/report_prompt.gif)
+### Sign Up
+![Report prompt](assets/Sign up.gif)
+
+## App Page
+![SBU Study Spot — Hero](assets/App Page.png)
 
 
 ## Usage
