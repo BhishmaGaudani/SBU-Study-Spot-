@@ -1,5 +1,5 @@
 # SBU-Study-Spot-
-Campus study spot finder using busyness level. Students get notified when they are within 100m range of Library/Union/Wang/SAC to report crowd levels in building. algorithm calculate and shows  status (Not Busy/Moderate/Busy) of building reported by users. Created using Python libraries like Streamlit, SQLite, Geopy. Stony Brook University Project
+Campus study spot finder using busyness level. Students get notified when they are within 100m range of the Library/Union/Wang/SAC to report crowd levels in the building. An algorithm calculate and shows the  status (Not Busy/Moderate/Busy) of the building reported by users. Created using Python libraries like Streamlit, SQLite, and Geopy. Stony Brook University Project
 
 ## Installation & Setup
 
@@ -34,11 +34,6 @@ Activate the virtual environment:
 source venv/bin/activate
 ```
 
-**On Windows:**
-```bash
-venv\Scripts\activate
-```
-
 ### 5. Install Required Libraries
 
 Install all the necessary dependencies:
@@ -48,6 +43,7 @@ pip install streamlit
 pip install pandas
 pip install streamlit-card
 pip install geopy
+pip install datetime
 pip install streamlit-geolocation
 ```
 
