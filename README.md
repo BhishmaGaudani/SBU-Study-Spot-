@@ -72,7 +72,7 @@ The application should automatically open in your default web browser. If it doe
 ![Sidebar statuses](assets/Login.png)
 
 ### Sign Up
-![Report prompt](assets/Sign up.gif)
+![Report prompt](assets/Sign up.png)
 
 ## App Page
 ![SBU Study Spot — Hero](assets/App Page.png)
