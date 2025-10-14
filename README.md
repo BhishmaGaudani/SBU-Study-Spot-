@@ -78,19 +78,3 @@ The application should automatically open in your default web browser. If it doe
 ![SBU STUDY SPOT](assets/AppPage.png)
 
 
-## Usage
-
-1. **Sign Up**: Create a new account with your username, email, and password
-2. **Login**: Log in with your credentials
-3. **Allow Location Access**: Grant location permissions when prompted
-4. **View Study Spots**: See all available study spots on the campus map
-5. **Report Status**: When near a study spot (within 100m), you'll be prompted to report the crowd status
-6. **Check Status**: View real-time crowd status for all study spots in the sidebar
-
-## Study Locations
-
-The app currently tracks the 4 locations of Stony Brook University where usually most of the student studies:
-- Melville Library
-- Student Union
-- Wang Center
-- SAC (Student Activities Center)
