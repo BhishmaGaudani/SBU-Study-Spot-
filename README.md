@@ -66,16 +66,16 @@ The application should automatically open in your default web browser. If it doe
 
 
 ### Home
-![Map showing study spots](assets/Home.png)
+![Home](assets/Home.png)
 
 ### Login
-![Sidebar statuses](assets/Login.png)
+![Login](assets/Login.png)
 
 ### Sign Up
-![Report prompt](assets/Sign up.png)
+![Sign uo](assets/Sign up.png)
 
 ## App Page
-![SBU Study Spot — Hero](assets/App Page.png)
+![SBU STUDY SPOT](assets/App Page.png)
 
 
 ## Usage
