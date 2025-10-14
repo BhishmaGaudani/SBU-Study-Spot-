@@ -1,24 +1,6 @@
 # SBU-Study-Spot-
 Campus study spot finder using busyness level. Students get notified when they are within 100m range of Library/Union/Wang/SAC to report crowd levels in building. algorithm calculate and shows  status (Not Busy/Moderate/Busy) of building reported by users. Created using Python libraries like Streamlit, SQLite, Geopy. Stony Brook University Project
 
-# SeawolfStudy - Study Spot Finder
-
-A location-based web application that helps students find and report the crowd status of study spots on campus in real-time.
-
-## Features
-
-- 📍 Real-time location tracking
-- 🎯 Proximity-based notifications
-- 📊 Crowd status reporting (Not Busy, Moderately Busy, Busy)
-- 🗺️ Interactive campus map
-- 👤 User authentication system
-- 💾 SQLite database for data persistence
-
-## Prerequisites
-
-- Python 3.7 or higher
-- pip (Python package installer)
-
 ## Installation & Setup
 
 ### 1. Download the Project
